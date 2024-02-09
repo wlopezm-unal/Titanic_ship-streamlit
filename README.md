@@ -1,5 +1,5 @@
 # Titanic_ship-streamlit
-Machine Learning model, where using titanic ship data and see if  is be able to predict if a passager was salved or died. This apply use Machien learning (Random Forest, gassianNB and Logistic Regressión) . Further, using streamlit together to FastApi be able to see the predict result
+Machine Learning model, where using titanic ship data and see if  is be able to predict if a passager was salved or died. This apply use Machien learning (Random Forest, gaussianNB and Logistic Regressión) . Further, using streamlit together to FastApi be able to see the predict result
 
 
 ![image](https://github.com/wlopezm-unal/Titanic_ship-streamlit/assets/68913739/0ed4e102-41a7-4f6d-a716-eedde52900fa)
