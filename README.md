@@ -5,3 +5,8 @@ Machine Learning model, where using titanic ship data and see if  is be able to 
 ![image](https://github.com/wlopezm-unal/Titanic_ship-streamlit/assets/68913739/0ed4e102-41a7-4f6d-a716-eedde52900fa)
 
 ![image](https://github.com/wlopezm-unal/Titanic_ship-streamlit/assets/68913739/8f3753d6-8267-4e1a-9f87-8b0ff5108eed)
+
+
+#### Sofware and Tools Requeriments
+1. [GitHub Account] (https://github.com)
+2. [VS Code IDE] (http://code.visualstudio.com/)

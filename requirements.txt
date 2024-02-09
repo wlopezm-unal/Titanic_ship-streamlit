@@ -1,0 +1,5 @@
+FastApi
+scikit-learn
+pandas
+numpy
+optuna
