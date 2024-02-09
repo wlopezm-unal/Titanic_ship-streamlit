@@ -1,4 +1,4 @@
-# Spaceship Titinic/streamlit/FastApi
+# Spaceship Titinic/streamlit/FastApi/Docker
 Machine Learning model, where using titanic ship data and see if  is be able to predict if a passager was salved or died. This apply use Machien learning (Random Forest, gaussianNB and Logistic Regressión; using libreris like scikit-learn and optuna) . Further, using streamlit together to FastApi be able to see the predict result
 
 Yyou can find out everything about the project spaceship titinic like data base in the next link: https://www.kaggle.com/competitions/spaceship-titanic/data
