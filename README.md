@@ -9,6 +9,7 @@ Sofware and Tools Requeriments
 2. [VS Code IDE] (http://code.visualstudio.com/)
 3. Stremlit
 4. Python, Pandas, scikit-learn
+5. Docker Installation
 ---------------------------------------------------------------
 # System Setup
 1. Lauch docker compose docker compose up -d
