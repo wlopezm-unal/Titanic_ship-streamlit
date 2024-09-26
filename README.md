@@ -10,7 +10,9 @@ Sofware and Tools Requeriments
 3. Stremlit
 4. Python, Pandas, scikit-learn
 ---------------------------------------------------------------
-
+# System Setup
+1. Lauch docker compose docker compose up -d
+2. Deployment streamlit : streamlit run main.py
 --------------------------------------------------------------
 Image of Results:
 
